@@ -1,5 +1,5 @@
 # Inattentive
 A Datascience Blog
 
-- [Articles](Data%20Analytics%20Articles/Contents.md)
+- [Articles](Data%20Analytics%20Articles/Readme.md)
 - [Interactive Curiculum Vitae](https://olajidechris.github.io/Interactive-CV/)
