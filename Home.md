@@ -1,4 +1,4 @@
 # Inattentive
 A Datascience Blog
 
-- [Articles](/Data Analytics Articles/Contents.md)
+- [Articles](Data%20Analytics%20Articles/Contents.md)
